@@ -1,0 +1,1 @@
+<?php $mysql = new mysqli("localhost", "root", "","murso") or die(mysqli_error($mysql))?>
